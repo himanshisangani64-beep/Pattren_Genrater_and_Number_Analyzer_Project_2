@@ -27,7 +27,7 @@
 project-folder Name/</br>
 │── Project_2(1).jpg</br>
 │── Project_2(2).jpg</br>
-│── Pattern_Genrat_and_Number_Analyzer.py</br>
+│── Pattern_Genrated_and_Number_Analyzer.py</br>
 │── README.md
 </div>
 
